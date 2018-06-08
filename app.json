@@ -1,5 +1,6 @@
 {
   "pages":[
+    "pages/component/cart/cart",
     "pages/component/index",
     "pages/component/category/category"
   ],
@@ -26,6 +27,11 @@
       "iconPath": "image/22.png",
       "selectedIconPath": "image/21.png",
       "text": "分类"
+    },{
+      "pagePath":"pages/component/cart/cart",
+      "iconPath":"image/32.png",
+      "selectedIconPath":"image/31.png",
+      "text":"购物车"
     }]
   },
   "networkTimeout": {
